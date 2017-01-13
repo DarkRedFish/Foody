@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="title_activity_food_detail">FoodDetailActivity</string>
+    <string name="shop">Shop</string>
+</resources>
